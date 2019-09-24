@@ -1,0 +1,2 @@
+(executable (name RunMorph_templateTests)
+    (public_name RunMorph_templateTests.exe) (libraries morph_template.test)) 

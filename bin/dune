@@ -1,0 +1,3 @@
+(executable (name Morph_templateApp) (public_name Morph_templateApp.exe)
+    (libraries morph_template.library morph morph_server morph_server_http logs logs.fmt fmt.tty
+        lwt uri)) 

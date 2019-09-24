@@ -1,0 +1,3 @@
+(library (name Library) (public_name morph_template.library)
+    (libraries opium_core morph mtime mtime.clock.os logs logs.fmt
+        fmt.tty lwt)) 
